@@ -9,3 +9,5 @@ HTML
 CSS
 JAVASCRIPT
 POSTMAN
+
+Utilizei o metodo jwt auth para autenticação de usuarios
